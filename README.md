@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kriti Jain
 - 👀 I’m interested in Software and Web Developement.
-- 🌱 I’m currently learning C programming.
+- 🌱 I’m currently learning Web Developemennt {HTML,CSS ,JavaScript and TypeScript}
 - 💞️ I’m looking for good and productive opportunities.
 - 📫 How to reach me at kritijain9414@gmail.com.
 
