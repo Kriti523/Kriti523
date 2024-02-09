@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kritijain9414@gmail.com**
 
-- ⚡ Fun fact **I can sing 😊**
+- ⚡ Fun fact **I am Funny 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
